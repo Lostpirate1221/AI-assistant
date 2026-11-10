@@ -17,6 +17,7 @@ The project uses a locally hosted language model through Ollama and a Python-bas
 ## Documentation
 
 - [System Architecture](docs/architecture.md) - component overview, request lifecycle, security boundaries, and implementation status.
+- [Development Roadmap](docs/roadmap.md) - phased milestones, deliverables, and completion criteria.
 
 ## Project Goals
 
