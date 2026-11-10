@@ -14,6 +14,10 @@ The project uses a locally hosted language model through Ollama and a Python-bas
 
 > Project status: Active development. Website retrieval has been demonstrated. Structured page parsing, technology fingerprinting, security-header analysis, and automated assessment reporting are planned improvements and should not be considered implemented until documented and tested.
 
+## Documentation
+
+- [System Architecture](docs/architecture.md) - component overview, request lifecycle, security boundaries, and implementation status.
+
 ## Project Goals
 
 1. Build repeatable passive website intelligence collection.
